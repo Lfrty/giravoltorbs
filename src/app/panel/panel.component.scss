@@ -1,0 +1,24 @@
+.cuadrado {
+    width:25vh;
+    max-width:50px;
+    height:25vh;
+    max-height:50px;
+    position:relative;
+    background:#a0a0a0;
+    margin: 1em .5em;
+  }
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.tablero{
+  display: flex;  
+}
+
+.hr{
+  display: block;
+}
